@@ -70,7 +70,7 @@ using B2_Registation.Models;
             WriteLiteral("</h2>\r\n");
             EndContext();
             BeginContext(110, 44, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e9184f4a27d548beadf07edc1af910e6", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9956c72623cc4433a3ca3682db810859", async() => {
                 BeginContext(138, 12, true);
                 WriteLiteral("List Student");
                 EndContext();

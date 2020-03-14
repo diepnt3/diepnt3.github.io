@@ -66,7 +66,7 @@ using B2_Registation.Models;
             WriteLiteral("\r\n<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(58, 99, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "49ad0e32e80b4bf9a86e8c1b199c6e05", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1ea4554d188b4d0791a374d16ee9418e", async() => {
                 BeginContext(64, 86, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>View</title>\r\n");
                 EndContext();
@@ -86,7 +86,7 @@ using B2_Registation.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(159, 137, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0d8239912b0248878fecfc5671d0ac38", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e9c7d161821e4180a22ed2b375f7430a", async() => {
                 BeginContext(165, 6, true);
                 WriteLiteral("\r\n    ");
                 EndContext();
@@ -111,7 +111,7 @@ Write(ViewBag.greeting);
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(211, 37, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9f6dbfb230aa4e7baad3e04c2d94faed", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "900ea1b5d707462e969ed9b895ffd5ea", async() => {
                     BeginContext(236, 8, true);
                     WriteLiteral("Register");
                     EndContext();
@@ -133,7 +133,7 @@ Write(ViewBag.greeting);
                 WriteLiteral("\r\n    ");
                 EndContext();
                 BeginContext(254, 33, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0e6e956144d7471e8b170fa1449ed98f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e2af17dfdcbd4c2095e41135dfc41309", async() => {
                     BeginContext(277, 6, true);
                     WriteLiteral("LearnC");
                     EndContext();

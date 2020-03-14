@@ -27,7 +27,8 @@ namespace B2_Registation.Controllers
             }
             result.Add(String.Format($"{holly}"));
             result.Add(String.Format($"{nick}"));
-            List<Card> cards = CreateCard.Create();
+            CreateCard creatcd = new CreateCard();
+            List<Card> cards = creatcd.Create();
             Player pl1, pl2;
             pl1 = new Player();
             pl2 = new Player();

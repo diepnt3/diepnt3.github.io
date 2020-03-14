@@ -7,7 +7,7 @@ namespace B2Registation.Models
 {
     public class CreateCard
     {
-        public static List<Card> Create()
+        public List<Card> Create()
         {
             List<Card> listCard = new List<Card>();
             foreach(Suit suit in Enum.GetValues(typeof(Suit)))
@@ -38,7 +38,7 @@ namespace B2Registation.Models
             }
             return ShuffleCard(listCard);
         }
-        public static List<Card> ShuffleCard(List<Card> cards)
+        public List<Card> ShuffleCard(List<Card> cards)
         {
             Random r = new Random();
             for(int i = cards.Count-1; i>0 ; i--)

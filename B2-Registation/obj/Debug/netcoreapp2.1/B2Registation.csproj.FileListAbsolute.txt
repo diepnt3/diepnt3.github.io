@@ -33,6 +33,5 @@ C:\Users\LongXuyen\source\repos\B2-Registation\B2-Registation\obj\Debug\netcorea
 C:\Users\LongXuyen\source\repos\B2-Registation\B2-Registation\obj\Debug\netcoreapp2.1\B2Registation.RazorTargetAssemblyInfo.cs
 C:\Users\LongXuyen\source\repos\B2-Registation\B2-Registation\obj\Debug\netcoreapp2.1\B2Registation.Views.pdb
 C:\Users\LongXuyen\source\repos\B2-Registation\B2-Registation\obj\Debug\netcoreapp2.1\B2Registation.csproj.CopyComplete
-C:\Users\LongXuyen\source\repos\B2-Registation\B2-Registation\obj\Debug\netcoreapp2.1\B2Registation.csprojAssemblyReference.cache
 C:\Users\LongXuyen\source\repos\B2-Registation\B2-Registation\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.cshtml.g.cs
 C:\Users\LongXuyen\source\repos\B2-Registation\B2-Registation\obj\Debug\netcoreapp2.1\Razor\Views\Home\StudentList.cshtml.g.cs
